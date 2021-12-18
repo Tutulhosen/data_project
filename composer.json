@@ -1,0 +1,19 @@
+{
+    "name": "tutulhosen/data_project",
+    "description": "A simple data project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tutul",
+            "email": "tutulhosen2022@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app"
+        }
+    }
+}
